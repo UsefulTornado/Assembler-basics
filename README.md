@@ -2,6 +2,8 @@
 
 In this repository you can find some **Assembler** simple programs implementation.
 
+All programs were compiled and linked with **TASM**.
+
 ## Files description
 
 ### 1. HelloWorld
